@@ -4,7 +4,7 @@ Properties for my malloc program to be correct:
 3. free function handles coalescing of adjacent free chunks
 4. initialization stage is done in malloc 
 
-The first program in memgrind.c is done as the instructions said so.
+The first program in memgrind.c 
 
 My second program: checks to see if coalescing works on a little bigger chunks than we did in the first program. Also, the free error cases were tested
 
